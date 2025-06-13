@@ -21,7 +21,7 @@ public class Main {
                 break;
             default:
                 System.out.println("Invalid grade entered.");
-        }
+        
     }
 
     public static void rectangleArea(){
